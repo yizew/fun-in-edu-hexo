@@ -1,6 +1,7 @@
 ---
-title: UBC简介
+title: 世界上最美的大学校园：UBC
 date: 2017-10-14 15:43:16
+categories: UBC
 tags: UBC
 ---
 
