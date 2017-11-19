@@ -5,6 +5,7 @@ tags:
 - 夏令营
 - 科技
 categories: 夏令营
+layout: post
 ---
 
 Geering up是一个由UBC学生发起的公益组织。已经有二十多年的历史，在加拿大BC省有二十六个教学点。
